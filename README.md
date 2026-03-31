@@ -28,3 +28,36 @@ Most cost-effective transport method
 Cost-heavy routes
 Trade-offs between speed and cost
 Data Quality Issue (Important)
+🔍 1. Overall Business Performance
+Total Revenue: ≈ 577,605
+Total Units Sold: 46,099
+Average Price: ≈ 49.46
+📦 2. Performance by Product Type
+Revenue Contribution:
+Skincare: 241,628 (Highest)
+Haircare: 174,455
+Cosmetics: 161,521
+Units Sold:
+Skincare: 20,731 (Top volume driver)
+Haircare: 13,611
+Cosmetics: 11,757
+Cost Analysis:
+Skincare also has the highest cost base
+Cosmetics has the lowest cost but also lowest revenue
+👉 Insight:
+
+Skincare is your growth engine, but also your cost-heavy segment
+Cosmetics might be underpriced or under-marketed
+🚚 3. Transportation Cost Efficiency
+
+Total transport costs by mode:
+
+Sea: 7,102 (✅ Cheapest)
+Air: 14,604
+Rail: 15,168
+Road: 16,048 (❌ Most expensive)
+
+👉 Insight:
+
+You are likely overusing Road and Air, which is driving up logistics costs
+Sea transport is significantly underutilized but most cost-efficient
