@@ -1,4 +1,5 @@
 # Supplychaindataanalysis
+[Isometric delivery concept with isometric vehicles for cargo transport. international trade logistics network. road, air, sea freight, customs clearance, online quotation request. _ Premium Vector.html](https://github.com/user-attachments/files/26387797/Isometric.delivery.concept.with.isometric.vehicles.for.cargo.transport.international.trade.logistics.network.road.air.sea.freight.customs.clearance.online.quotation.request._.Premium.Vector.html)
 This dataset provides a comprehensive view of supply chain and logistics operations across 100 product records. It captures the full lifecycle of products—from production and inventory management to sales, shipping, and transportation costs.
 ##Key Insights at a Glance
 End-to-End Visibility
