@@ -1,5 +1,7 @@
 # Supplychaindataanalysis
 
+<img width="437" height="292" alt="Image" src="https://github.com/user-attachments/assets/eb73f016-6b46-4819-a548-c2a3383b66f2" />
+
 This dataset provides a comprehensive view of supply chain and logistics operations across 100 product records. It captures the full lifecycle of products—from production and inventory management to sales, shipping, and transportation costs.
 ##Key Insights at a Glance
 End-to-End Visibility
