@@ -2,77 +2,138 @@
 
 <img width="437" height="292" alt="Image" src="https://github.com/user-attachments/assets/eb73f016-6b46-4819-a548-c2a3383b66f2" />
 
-This dataset provides a comprehensive view of supply chain and logistics operations across 100 product records. It captures the full lifecycle of products—from production and inventory management to sales, shipping, and transportation costs.
+## 🚀 Overview
 
+This project presents a comprehensive analysis of supply chain operations using a real-world dataset (`supplychaindatanalysis.xlsx`). The objective is to identify inefficiencies, optimize operational performance, and support data-driven decision-making across the supply chain lifecycle.
 
-##Key Insights at a Glance
-End-to-End Visibility
-The dataset connects sales, operations, and logistics, making it ideal for identifying inefficiencies across the entire supply chain—not just one segment.
+The analysis covers key functional areas including **production, inventory management, logistics, and sales performance**, transforming raw data into actionable business insights.
 
+---
 
-Revenue vs Operational Reality
-You can compare revenue generated with:
-Manufacturing costs
-Shipping costs
-Transportation costs
-→ This enables true profitability analysis, not just sales performance.
-Supply Chain Efficiency Opportunities
-Shipping times
-Order quantities
-→ You can identify delays, bottlenecks, and overstock/understock issues.
+## 🎯 Objectives
 
+The project aims to address the following business questions:
 
-Quality & Risk Monitoring
-Fields like Inspection results and Defect rates allow tracking of:
-Supplier quality performance
-Production reliability
-→ Useful for risk reduction and supplier evaluation.
+- How do customer demographics influence product demand and order size?
+- Does production lead time affect purchasing behavior?
+- Which product categories drive the highest revenue?
+- What is the relationship between defect rates and production volume?
+- Which transportation mode offers the best cost efficiency?
 
+---
 
-Logistics Cost Optimization
-Multiple transportation modes (Air, Road, Rail) and routes are included
-→ You can determine:
-Most cost-effective transport method
-Cost-heavy routes
-Trade-offs between speed and cost
+## 📊 Dataset Description
 
+The dataset provides an end-to-end view of supply chain operations and includes:
 
-Data Quality Issue (Important)
-🔍 1. Overall Business Performance
-Total Revenue: ≈ 577,605
-Total Units Sold: 46,099
-Average Price: ≈ 49.46
+- **Product Data:** Product type, SKU, pricing  
+- **Sales Metrics:** Quantity sold, revenue generated  
+- **Customer Insights:** Demographic segmentation  
+- **Inventory Data:** Stock levels and availability  
+- **Logistics Data:** Shipping modes, carriers, costs, and delivery times  
+- **Production Data:** Lead times, production volumes, manufacturing costs  
+- **Quality Metrics:** Inspection results and defect rates  
 
+---
 
-📦 2. Performance by Product Type
-Revenue Contribution:
-Skincare: 241,628 (Highest)
-Haircare: 174,455
-Cosmetics: 161,521
-Units Sold:
-Skincare: 20,731 (Top volume driver)
-Haircare: 13,611
-Cosmetics: 11,757
+## 🛠️ Methodology
 
+The analysis followed a structured data analytics workflow:
 
-Cost Analysis:
-Skincare also has the highest cost base
-Cosmetics has the lowest cost but also lowest revenue
-👉 Insight:
-Skincare is your growth engine, but also your cost-heavy segment
-Cosmetics might be underpriced or under-marketed
+### 1. Data Cleaning & Preparation
+- Addressed missing values and inconsistencies  
+- Validated revenue calculations  
+- Standardized data formats  
 
+### 2. Exploratory Data Analysis (EDA)
+- Identified trends and patterns across product categories  
+- Compared cost structures across transportation modes  
+- Evaluated production and quality relationships  
 
-🚚 3. Transportation Cost Efficiency
+### 3. Analytical Approach
+- Aggregation and comparative analysis  
+- Cost optimization evaluation  
+- Trend and relationship analysis  
 
-Total transport costs by mode:
+### 4. Visualization
+- Developed interactive dashboards using Power BI  
+- Created KPI-driven reports for decision-making  
 
-Sea: 7,102 (✅ Cheapest)
-Air: 14,604
-Rail: 15,168
-Road: 16,048 (❌ Most expensive)
+---
 
-👉 Insight:
+## 📈 Key Results
 
-You are likely overusing Road and Air, which is driving up logistics costs
-Sea transport is significantly underutilized but most cost-efficient
+| Metric | Value |
+|------|------|
+| Total Revenue | **577,604.82** |
+| Average Defect Rate | **2.28%** |
+| Top Revenue Product | **Skincare** |
+| Most Cost-Effective Transport Mode | **Sea** |
+
+---
+
+## 🔍 Key Insights
+
+### 1. Product Performance
+Skincare products emerged as the highest revenue-generating category, indicating strong demand and market potential.
+
+**Implication:**  
+Strategic focus on high-performing products can significantly improve revenue growth.
+
+---
+
+### 2. Logistics Optimization
+Transportation analysis revealed that sea freight is the most cost-efficient mode, while air freight incurs the highest costs.
+
+**Implication:**  
+Optimizing transportation strategy can substantially reduce logistics expenses.
+
+---
+
+### 3. Production & Quality Dynamics
+An increase in production volume was associated with higher defect rates, highlighting operational strain during scaling.
+
+**Implication:**  
+Quality control systems must evolve alongside production expansion.
+
+---
+
+### 4. Data Integrity Concerns
+Inconsistencies were identified between calculated and recorded revenue values.
+
+**Implication:**  
+Reliable data governance is essential for accurate business decision-making.
+
+---
+
+### 5. Inventory Management Gaps
+Misalignment between stock levels and high-demand products suggests inefficiencies in inventory planning.
+
+**Implication:**  
+Demand-driven inventory strategies are required to prevent stockouts and overstocking.
+
+---
+
+## 💡 Business Recommendations
+
+- Prioritize high-performing product categories for marketing and inventory allocation  
+- Optimize logistics by leveraging cost-effective transportation modes  
+- Strengthen quality control processes to reduce defect rates  
+- Implement robust data validation mechanisms within ERP systems  
+- Adopt demand forecasting models to improve inventory management  
+
+---
+
+## 📊 Dashboard & Visualization
+
+The Power BI dashboard developed for this project includes:
+
+- KPI summaries (Revenue, Costs, Defect Rate)  
+- Product performance analysis  
+- Transportation cost comparison  
+- Production vs defect rate trends  
+- Inventory monitoring and stock insights  
+
+---
+
+## 📁 Project Structure
