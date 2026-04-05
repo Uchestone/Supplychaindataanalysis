@@ -98,11 +98,6 @@ Quality control systems must evolve alongside production expansion.
 
 ---
 
-### 4. Data Integrity Concerns
-Inconsistencies were identified between calculated and recorded revenue values.
-
-**Implication:**  
-Reliable data governance is essential for accurate business decision-making.
 
 ---
 
@@ -136,4 +131,4 @@ The Power BI dashboard developed for this project includes:
 
 ---
 
-## 📁 Project Structure
+
