@@ -131,7 +131,7 @@ The Power BI dashboard developed for this project includes:
 
 ## Conclusion
 This project demonstrates the power of supply chain analytics in transforming raw data into strategic insights.
-# Key takeaway:
+### Key takeaway:
 Data is not valuable until it is cleaned, analyzed, and translated into business decisions.
 
 
